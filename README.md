@@ -2,7 +2,7 @@
 
 # Jobs Mobile App 👋
 
-Area1 is a mobile application developed using React Native in Expo, aimed at providing a seamless job search experience for users.
+Areaone is a mobile application developed using React Native in Expo, aimed at providing a seamless job search experience for users.
 
 ## Features
 
