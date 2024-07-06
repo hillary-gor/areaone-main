@@ -1,6 +1,6 @@
-# Area1 Job Mobile App 👋
-
 ![logo](https://github.com/hillary-gor/areaone-main/assets/125491337/40ebf0d4-25f3-48b3-b8b9-833f0fd1df19)
+
+# Jobs Mobile App 👋
 
 Area1 is a mobile application developed using React Native in Expo, aimed at providing a seamless job search experience for users.
 
