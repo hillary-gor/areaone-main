@@ -1,6 +1,6 @@
-# Welcome to your area1 app 👋
+# Area1 Job Mobile App 👋
 
-## Area1 Job Mobile App
+![logo](https://github.com/hillary-gor/areaone-main/assets/125491337/40ebf0d4-25f3-48b3-b8b9-833f0fd1df19)
 
 Area1 is a mobile application developed using React Native in Expo, aimed at providing a seamless job search experience for users.
 
@@ -11,6 +11,9 @@ Area1 is a mobile application developed using React Native in Expo, aimed at pro
 - **Save Favorites**: Save preferred jobs for later viewing.
 - **Job Details**: View detailed descriptions of job postings.
 - **Application Tracking**: Keep track of job applications and their statuses.
+
+![favicon](https://github.com/hillary-gor/areaone-main/assets/125491337/5e7e04f7-1c31-4882-b639-867b1734ff4b)
+
 
 ## Installation
 
