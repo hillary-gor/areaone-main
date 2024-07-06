@@ -1,6 +1,20 @@
-# Welcome to your Expo app 👋
+# Welcome to your area1 app 👋
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Area1 Job Mobile App
+
+Area1 is a mobile application developed using React Native in Expo, aimed at providing a seamless job search experience for users.
+
+## Features
+
+- **Job Listings**: Browse through a variety of job listings conveniently.
+- **Search**: Easily search for specific job titles or keywords.
+- **Save Favorites**: Save preferred jobs for later viewing.
+- **Job Details**: View detailed descriptions of job postings.
+- **Application Tracking**: Keep track of job applications and their statuses.
+
+## Installation
+
+This is an [Expo](https://expo.dev) project created with [`create-expo-app@latest`](https://www.npmjs.com/package/create-expo-app).
 
 ## Get started
 
@@ -48,3 +62,21 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+## Technologies Used
+
+- React Native
+- Expo
+- React Navigation
+
+## Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For questions or feedback, please contact [Hillary](mailto:info@surgeafrica.co.ke).
